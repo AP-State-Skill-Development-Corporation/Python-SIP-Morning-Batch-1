@@ -1,8 +1,7 @@
 # Python-Programming-Summer-Online-Training-Morning-Batch-1
 
 ## Online Training Link --> [Click Here](https://global.gotomeeting.com/install/351028021)
-## Join to Slack Channel --> [Click Here to Join](https://join.slack.com/t/apssdcpythoncommunity/shared_invite/zt-f72x3b52-k8J0d9Lu7AvGXHiMR6EWtw)
-
+## Verify Your Roll Number --> [Here](https://docs.google.com/spreadsheets/d/1HzJhIDfu73W71taEA_cRyFEbUke80-h3T2PUtoAol9Q/edit?usp=sharing)
 This Repo contains all the discussed files during Python Programming Summer Online Training for Morning Batch
 
 ## Day1 Discussed Concepts
