@@ -7,5 +7,9 @@
 ### 4. [Jupyter Notebook Installation For Windows 7 and Below](https://jupyter.org/install)
 ### 5. [Google Colab](https://colab.research.google.com/)
 ### 6. [Python Libraries for Mechanical Engineers](https://medium.com/@a.tavallaie/python-programming-libraries-for-mechanical-engineer-409cf994efdd)
+********************************
 
 ## Day2
+### 1. [Literate Programming](http://www.literateprogramming.com/)
+### 2. Markdown Sytax → [[Basic Markdown]](https://www.markdownguide.org/basic-syntax/) [[Markdown for Mathematical Equations]](https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/)
+********************
