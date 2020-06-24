@@ -28,3 +28,11 @@
 
 ### Day2 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day02_23June2020/Day2_23June2020.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day02_23June2020/Day02_23June2020.pdf) 
 ### [Day2_Recorded_Video](https://transcripts.gotomeeting.com/#/s/97c4b639f4e820d7ddae0abc9a8dbaf0ef795fdcf39d236ef0b600728030486c)
+******************************
+
+## Day3 Discussed Concepts
+1. Operators in Python
+2. Few Number System Type Conversions
+
+### Day2 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day03_24June2020/Day3_24June2020.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day03_24June2020/Day03_24June2020.pdf) 
+### [Day2_Recorded_Video](https://transcripts.gotomeeting.com/#/s/e1656c52c4658f5929c5825efb7f87265cb96b8ce7b6e2e8ded9acd495c4d78b)
