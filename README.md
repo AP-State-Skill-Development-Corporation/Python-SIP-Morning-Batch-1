@@ -46,7 +46,7 @@
 2. String Slicing
 3. String Methods
 
-### Day4 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day04_25June2020/Day4_25June2020.ipynb)
+### Day4 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day04_25June2020/Day04_25June2020.ipynb)
 
 ### [Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/986d0b2144cccde771107bdfc80412f18a99288a166f2690dc130ae49b436904)
 ***************************************************************
