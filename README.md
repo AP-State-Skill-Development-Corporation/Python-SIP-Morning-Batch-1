@@ -51,3 +51,12 @@
 ### [Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/986d0b2144cccde771107bdfc80412f18a99288a166f2690dc130ae49b436904)
 ***************************************************************
 
+
+## Day5 Discussed Concepts
+
+Will be Updated Soon
+
+### Day5 Content Notebook → [[Will be Updated Soon]]()
+
+### [Day5_Recorded_Video](https://transcripts.gotomeeting.com/#/s/caa79934ef6be3a5135feefe301e1bf399d5a66d5ea3607c57e2b983552e032f)
+***************************************************************
