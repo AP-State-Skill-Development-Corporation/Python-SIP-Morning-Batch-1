@@ -56,7 +56,7 @@
 
 Will be Updated Soon
 
-### Day5 Content Notebook → [[Will be Updated Soon]]()
+### Day5 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day05_26June2020/Day-5.ipynb)
 
 ### [Day5_Recorded_Video](https://transcripts.gotomeeting.com/#/s/caa79934ef6be3a5135feefe301e1bf399d5a66d5ea3607c57e2b983552e032f)
 ***************************************************************
@@ -65,7 +65,7 @@ Will be Updated Soon
 
 Will be Updated Soon
 
-### Day6 Content Notebook → [[Will be Updated Soon]]()
+### Day6 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6.ipynb)
 
 ### [Day6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ceb8f142653933979c49ff069817628e64a57e662d0d24ff3d094771d2174f71)
 ***************************************************************
