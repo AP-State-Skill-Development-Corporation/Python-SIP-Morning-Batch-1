@@ -54,18 +54,20 @@
 
 ## Day5 Discussed Concepts
 
-Will be Updated Soon
+1. String Methods
+2. Conditional Statements
 
-### Day5 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day05_26June2020/Day-5.ipynb)
+### Day5 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day05_26June2020/Day-5.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day05_26June2020/Day-5%20-%20Jupyter%20Notebook.pdf)
 
 ### [Day5_Recorded_Video](https://transcripts.gotomeeting.com/#/s/caa79934ef6be3a5135feefe301e1bf399d5a66d5ea3607c57e2b983552e032f)
 ***************************************************************
 
 ## Day6 Discussed Concepts
 
-Will be Updated Soon
+1. Conditional Statements
+2. Loops
 
-### Day6 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6.ipynb)
+### Day6 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6%20-%20Jupyter%20Notebook.pdf)
 
 ### [Day6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ceb8f142653933979c49ff069817628e64a57e662d0d24ff3d094771d2174f71)
 ***************************************************************
