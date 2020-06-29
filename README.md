@@ -72,3 +72,14 @@
 ### [Day6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ceb8f142653933979c49ff069817628e64a57e662d0d24ff3d094771d2174f71)
 ***************************************************************
 
+
+## Day7 Discussed Concepts
+
+Will be update soon
+
+### Day7 Content Notebook → [[Will be update soon  →]] [[.ipynb format]]() [[.pdf Format]]()
+
+### [Day7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/de03713a367d6208508726b5568a8c19b437d98013f42d0fc0743eba5a09e9b0)
+***************************************************************
+
+
