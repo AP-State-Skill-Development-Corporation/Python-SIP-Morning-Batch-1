@@ -82,4 +82,13 @@ Will be update soon
 ### [Day7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/de03713a367d6208508726b5568a8c19b437d98013f42d0fc0743eba5a09e9b0)
 ***************************************************************
 
+## Day8 Discussed Concepts
+
+Will be update soon
+
+### Day8 Content Notebook → [[Will be update soon  →]] [[.ipynb format]]() [[.pdf Format]]()
+
+### [Day8_Recorded_Video](https://transcripts.gotomeeting.com/#/s/2fa45e0baede322cc229d855bf332b01854f7632d9d76242646fe0b913d5c52c)
+*****************************
+
 
