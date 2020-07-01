@@ -25,7 +25,7 @@
 6. Basic data types in python and checking the datatype of variable
 
 
-### Day2 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day02_23June2020/Day2_23June2020.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day02_23June2020/Day02_23June2020.pdf)
+### Day2 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day02_23June2020/Day2_23June2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day02_23June2020/Day02_23June2020.pdf)
 
 ### [Day2_Recorded_Video](https://transcripts.gotomeeting.com/#/s/97c4b639f4e820d7ddae0abc9a8dbaf0ef795fdcf39d236ef0b600728030486c)
 ******************************
@@ -34,7 +34,7 @@
 1. Operators in Python
 2. Few Number System Type Conversions
 
-### Day3 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day03_24June2020/Day3_24June2020.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day03_24June2020/Day03_24June2020.pdf)
+### Day3 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day03_24June2020/Day3_24June2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day03_24June2020/Day03_24June2020.pdf)
 
 ### [Day3_Recorded_Video](https://transcripts.gotomeeting.com/#/s/e1656c52c4658f5929c5825efb7f87265cb96b8ce7b6e2e8ded9acd495c4d78b)
 ***************************************************************
@@ -44,7 +44,7 @@
 2. String Slicing
 3. String Methods
 
-### Day4 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day04_25June2020/Day04_25June2020.ipynb)
+### Day4 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day04_25June2020/Day04_25June2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/tree/master/Day01_22June2020)
 
 ### [Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/986d0b2144cccde771107bdfc80412f18a99288a166f2690dc130ae49b436904)
 ***************************************************************
@@ -65,7 +65,7 @@
 1. Conditional Statements
 2. Loops
 
-### Day6 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6%20-%20Jupyter%20Notebook.pdf)
+### Day6 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6%20-%20Jupyter%20Notebook.pdf)
 
 ### [Day6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ceb8f142653933979c49ff069817628e64a57e662d0d24ff3d094771d2174f71)
 ***************************************************************
@@ -75,7 +75,7 @@
 
 Will be update soon
 
-### Day7 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-7%20%5B29-6-2020%5D/Day-7.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-7%20%5B29-6-2020%5D/Day-7%20-%20%5B29-6-2020%5D.pdf)
+### Day7 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-7%20%5B29-6-2020%5D/Day-7.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-7%20%5B29-6-2020%5D/Day-7%20-%20%5B29-6-2020%5D.pdf)
 
 ### [Day7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/de03713a367d6208508726b5568a8c19b437d98013f42d0fc0743eba5a09e9b0)
 ***************************************************************
@@ -84,12 +84,12 @@ Will be update soon
 
 Will be update soon
 
-### Day8 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-8%20%5B30-6-2020%5D/Day-8.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-8%20%5B30-6-2020%5D/Day-8%20-%20%5B30-6-2020%5D.pdf)
+### Day8 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-8%20%5B30-6-2020%5D/Day-8.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-8%20%5B30-6-2020%5D/Day-8%20-%20%5B30-6-2020%5D.pdf)
 
 ### [Day8_Recorded_Video](https://transcripts.gotomeeting.com/#/s/2fa45e0baede322cc229d855bf332b01854f7632d9d76242646fe0b913d5c52c)
 *****************************
 
-### Day9 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.pdf)
+### Day9 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.pdf)
 
 ### [Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/sessionId/6602519354239207193)
 *****************************
