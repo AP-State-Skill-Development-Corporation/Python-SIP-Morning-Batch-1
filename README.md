@@ -2,8 +2,6 @@
 ### 22-06-2020 to 11-07-2020
 
 ## Online Training Link --> [Click Here](https://global.gotomeeting.com/install/351028021)
-## Verify Your Roll Number --> [Here](https://docs.google.com/spreadsheets/d/1HzJhIDfu73W71taEA_cRyFEbUke80-h3T2PUtoAol9Q/edit?usp=sharing)
-## Morning Batch Slack Invite Link --> [Click Here](https://join.slack.com/t/apssdcpythoncommunity/shared_invite/zt-f72x3b52-k8J0d9Lu7AvGXHiMR6EWtw)
 
 **`Note:` If you need the recorded videos for future reference download and save it in your Desktop/Laptop/Mobile they will be expired by 10 days i.e. 02 July 2020**
 **********************************
@@ -46,8 +44,55 @@
 2. String Slicing
 3. String Methods
 
-### Day4 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day04_25June2020/Day4_25June2020.ipynb)
+### Day4 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day04_25June2020/Day04_25June2020.ipynb)
 
 ### [Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/986d0b2144cccde771107bdfc80412f18a99288a166f2690dc130ae49b436904)
 ***************************************************************
+
+
+## Day5 Discussed Concepts
+
+1. String Methods
+2. Conditional Statements
+
+### Day5 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day05_26June2020/Day-5.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day05_26June2020/Day-5%20-%20Jupyter%20Notebook.pdf)
+
+### [Day5_Recorded_Video](https://transcripts.gotomeeting.com/#/s/caa79934ef6be3a5135feefe301e1bf399d5a66d5ea3607c57e2b983552e032f)
+***************************************************************
+
+## Day6 Discussed Concepts
+
+1. Conditional Statements
+2. Loops
+
+### Day6 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day06_27June2020/Day-6%20-%20Jupyter%20Notebook.pdf)
+
+### [Day6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ceb8f142653933979c49ff069817628e64a57e662d0d24ff3d094771d2174f71)
+***************************************************************
+
+
+## Day7 Discussed Concepts
+
+Will be update soon
+
+### Day7 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-7%20%5B29-6-2020%5D/Day-7.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-7%20%5B29-6-2020%5D/Day-7%20-%20%5B29-6-2020%5D.pdf)
+
+### [Day7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/de03713a367d6208508726b5568a8c19b437d98013f42d0fc0743eba5a09e9b0)
+***************************************************************
+
+## Day8 Discussed Concepts
+
+Will be update soon
+
+### Day8 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-8%20%5B30-6-2020%5D/Day-8.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day-8%20%5B30-6-2020%5D/Day-8%20-%20%5B30-6-2020%5D.pdf)
+
+### [Day8_Recorded_Video](https://transcripts.gotomeeting.com/#/s/2fa45e0baede322cc229d855bf332b01854f7632d9d76242646fe0b913d5c52c)
+*****************************
+
+### Day9 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.pdf)
+
+### [Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/sessionId/6602519354239207193)
+*****************************
+
+
 
