@@ -89,4 +89,10 @@ Will be update soon
 ### [Day8_Recorded_Video](https://transcripts.gotomeeting.com/#/s/2fa45e0baede322cc229d855bf332b01854f7632d9d76242646fe0b913d5c52c)
 *****************************
 
+### Day9 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.ipynb) [[.pdf Format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.pdf)
+
+### [Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/sessionId/6602519354239207193)
+*****************************
+
+
 
