@@ -95,4 +95,12 @@ Will be update soon
 *****************************
 
 
+## Day10 Discussed Concepts
+
+1. Sets
+2. Functions
+
+### Day10 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day10_02July2020/Day-10.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day10_02July2020/Day-10%20-%20Jupyter%20Notebook.pdf)
+
+***************************************************************
 
