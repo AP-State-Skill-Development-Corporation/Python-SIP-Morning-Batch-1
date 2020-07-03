@@ -101,6 +101,7 @@ Will be update soon
 2. Functions
 
 ### Day10 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day10_02July2020/Day-10.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day10_02July2020/Day-10%20-%20Jupyter%20Notebook.pdf)
+### [Day10_Recorded_Video](https://transcripts.gotomeeting.com/#/s/b9e71dc322983db722e7e1cc82cefd9a8f41715542fd4b0912c78b90b45dd21e)
 
 ***************************************************************
 
