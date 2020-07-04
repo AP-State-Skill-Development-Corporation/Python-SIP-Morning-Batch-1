@@ -109,7 +109,7 @@ Will be update soon
 
 Will  Be updated ASAP
 
-### Day11 Content Notebook [Will Be Updated ASAP] → [[.ipynb format]]() [[.pdf format]]()
+### Day11 Content Notebook  → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day11_03July2020/Day11_03July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day11_03July2020/Day11_03July2020.pdf)
 ### [Day11_Recorded_Video](https://transcripts.gotomeeting.com/#/s/4388924addf45cd99373f47500b6070288d99046eebd7d66d2ec2a063ebdfbab)
 
 ***************************************************************
