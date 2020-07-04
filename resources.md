@@ -17,3 +17,7 @@
 ## Day3
 
 ### [Precedence and Associativity of Operators in Python](https://www.programiz.com/python-programming/precedence-associativity)
+
+## Day12
+
+### [Pre-defined Modules from Python](https://docs.python.org/3/py-modindex.html)
