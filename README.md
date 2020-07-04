@@ -1,7 +1,8 @@
 # Python-Programming-Summer-Online-Training-Morning-Batch-1
 ### 22-06-2020 to 11-07-2020
 
-## Online Training Link --> [Click Here](https://global.gotomeeting.com/install/351028021)
+## Online Training Link Updated --> [Click Here](https://global.gotomeeting.com/join/500046325)
+## All Recorded Videos in Google Drive --> [CLick Here](https://drive.google.com/drive/folders/1PLV5TZ4q9DJ375ThQ_SVPCf23oxZ4d5U?usp=sharing)
 
 **`Note:` If you need the recorded videos for future reference download and save it in your Desktop/Laptop/Mobile they will be expired by 10 days i.e. 02 July 2020**
 **********************************
@@ -91,7 +92,7 @@ Will be update soon
 
 ### Day9 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day09_01July2020/Day-9%20%5B1-7-2020%5D.pdf)
 
-### [Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/sessionId/6602519354239207193)
+### [Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/s/a738119b1efad00b09a6a1409b08ae24b5321adc574ed24372bc5ea5f387cafe)
 *****************************
 
 
@@ -102,6 +103,25 @@ Will be update soon
 
 ### Day10 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day10_02July2020/Day-10.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day10_02July2020/Day-10%20-%20Jupyter%20Notebook.pdf)
 ### [Day10_Recorded_Video](https://transcripts.gotomeeting.com/#/s/b9e71dc322983db722e7e1cc82cefd9a8f41715542fd4b0912c78b90b45dd21e)
+
+***************************************************************
+## Day11 Discussed Concepts
+
+Will  Be updated ASAP
+
+### Day11 Content Notebook [Will Be Updated ASAP] → [[.ipynb format]]() [[.pdf format]]()
+### [Day11_Recorded_Video](https://transcripts.gotomeeting.com/#/s/4388924addf45cd99373f47500b6070288d99046eebd7d66d2ec2a063ebdfbab)
+
+***************************************************************
+## Day12 Discussed Concepts
+
+1. List Comprehensions Examples
+2. Dictionary Comprehensions
+3. Set Comprehensions
+4. Modules and Packages
+
+### Day12 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day12_04July2020/Day12_04July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day12_04July2020/Day12_04July2020.pdf)
+### [Day12_Recorded_Video](https://transcripts.gotomeeting.com/#/s/879a762635e83411731c28575884c61b57c86ce038e6267b61d362dc8aa60060)
 
 ***************************************************************
 
