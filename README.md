@@ -125,3 +125,19 @@ Will  Be updated ASAP
 
 ***************************************************************
 
+## Day13 Discussed Concepts
+
+1. Regular Expressions with Examples
+
+### Day13 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day13_06July2020/Day13_06July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day13_06July2020/Day13_06July2020.pdf)
+### [Day13_Recorded_Video](https://transcripts.gotomeeting.com/#/s/29cc7ba24481caed62104a6a0ed030e110c067f6441c94bf79fcc0c2af484421)
+
+***************************************************************
+## Day14 Discussed Concepts
+
+1. Object Oriented Programming with Examples
+
+### Day14 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day14_07July2020/Day14_07July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day14_07July2020/Day14_07July2020.pdf)
+### [Day14_Recorded_Video](https://transcripts.gotomeeting.com/#/s/312d2f395be97d1014f85bab1f41ade4563fabbe60a1e98c6b0bc1b9aac89b17)
+
+***************************************************************
