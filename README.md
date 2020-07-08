@@ -141,3 +141,12 @@ Will  Be updated ASAP
 ### [Day14_Recorded_Video](https://transcripts.gotomeeting.com/#/s/312d2f395be97d1014f85bab1f41ade4563fabbe60a1e98c6b0bc1b9aac89b17)
 
 ***************************************************************
+## Day14 Discussed Concepts
+
+1. map() and filter()
+2. Introduction to Numpy and different methods in Numpy
+
+### Day15 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day15_08July2020/Day15_08July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day15_08July2020/Day15_08July2020.pdf)
+### [Day15_Recorded_Video](https://transcripts.gotomeeting.com/#/s/06a2892c54e36a3bc6349d70ea068d5c3b2728745f3c26dc6d7bde255e60e4b7)
+
+***************************************************************
