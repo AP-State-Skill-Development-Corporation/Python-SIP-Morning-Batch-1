@@ -21,3 +21,8 @@
 ## Day12
 
 ### [Pre-defined Modules from Python](https://docs.python.org/3/py-modindex.html)
+
+## Day15
+
+### 1. [Numpy Official Website](https://numpy.org)
+### 2. [Data Types in Numpy](https://numpy.org/devdocs/user/basics.types.html)
