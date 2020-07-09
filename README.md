@@ -2,7 +2,9 @@
 ### 22-06-2020 to 11-07-2020
 
 ## Online Training Link Updated --> [Click Here](https://global.gotomeeting.com/join/500046325)
-## All Recorded Videos in Google Drive --> [CLick Here](https://drive.google.com/drive/folders/1PLV5TZ4q9DJ375ThQ_SVPCf23oxZ4d5U?usp=sharing)
+## All Recorded Videos in Google Drive --> [Click Here](https://drive.google.com/drive/folders/1PLV5TZ4q9DJ375ThQ_SVPCf23oxZ4d5U?usp=sharing)
+## Verify Your Name, RollNo, CollegeName and Attendance and if any changes needed update in Comments Column → [Click Here](https://docs.google.com/spreadsheets/d/1SEad55QEIgdE2yk4GtfEumk1btsvCyXKryspCrEZNNE/edit?usp=sharing)
+## Provide Your Video Feedback → [Here](https://forms.gle/aFWeig5A1Ke91uWQA)
 
 **`Note:` If you need the recorded videos for future reference download and save it in your Desktop/Laptop/Mobile they will be expired by 10 days i.e. 02 July 2020**
 **********************************
@@ -148,5 +150,16 @@ Will  Be updated ASAP
 
 ### Day15 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day15_08July2020/Day15_08July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day15_08July2020/Day15_08July2020.pdf)
 ### [Day15_Recorded_Video](https://transcripts.gotomeeting.com/#/s/06a2892c54e36a3bc6349d70ea068d5c3b2728745f3c26dc6d7bde255e60e4b7)
+
+***************************************************************
+
+## Day16 Discussed Concepts
+
+Data Analysis and preprocessing using Pandas
+
+### Day16 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day16_09July2020/Day16_09July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day16_09July2020/Day16_09July2020.pdf)
+
+
+### [Day16_Recorded_Video](https://transcripts.gotomeeting.com/#/s/8f2c697d24e7dbeb4d981dff4b938d8adfb8e15c9fabe3f4eb3d38390a40d886)
 
 ***************************************************************
