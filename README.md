@@ -3,7 +3,7 @@
 
 ## Online Training Link Updated --> [Click Here](https://global.gotomeeting.com/join/500046325)
 ## All Recorded Videos in Google Drive --> [Click Here](https://drive.google.com/drive/folders/1PLV5TZ4q9DJ375ThQ_SVPCf23oxZ4d5U?usp=sharing)
-## Verify Your Name, RollNo, CollegeName and Attendance and if any changes needed update in Comments Column → [Click Here](https://docs.google.com/spreadsheets/d/1SEad55QEIgdE2yk4GtfEumk1btsvCyXKryspCrEZNNE/edit?usp=sharing)
+## Verify Your Name, RollNo, CollegeName same will be printed on your Certificate and also check your Attendance and if any changes needed update in Comments Column → [Click Here](https://docs.google.com/spreadsheets/d/1SEad55QEIgdE2yk4GtfEumk1btsvCyXKryspCrEZNNE/edit?usp=sharing)
 ## Provide Your Video Feedback → [Here](https://forms.gle/aFWeig5A1Ke91uWQA)
 
 **`Note:` If you need the recorded videos for future reference download and save it in your Desktop/Laptop/Mobile they will be expired by 10 days i.e. 02 July 2020**
