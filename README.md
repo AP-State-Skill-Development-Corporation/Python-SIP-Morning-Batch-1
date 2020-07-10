@@ -1,10 +1,15 @@
 # Python-Programming-Summer-Online-Training-Morning-Batch-1
 ### 22-06-2020 to 11-07-2020
 
-## Online Training Link Updated --> [Click Here](https://global.gotomeeting.com/join/500046325)
-## All Recorded Videos in Google Drive --> [Click Here](https://drive.google.com/drive/folders/1PLV5TZ4q9DJ375ThQ_SVPCf23oxZ4d5U?usp=sharing)
-## Verify Your Name, RollNo, CollegeName same will be printed on your Certificate and also check your Attendance and if any changes needed update in Comments Column → [Click Here](https://docs.google.com/spreadsheets/d/1SEad55QEIgdE2yk4GtfEumk1btsvCyXKryspCrEZNNE/edit?usp=sharing)
-## Provide Your Video Feedback → [Here](https://forms.gle/aFWeig5A1Ke91uWQA)
+### Online Training Link Updated → [Click Here](https://global.gotomeeting.com/join/500046325)
+### All Recorded Videos in Google Drive → [Click Here](https://drive.google.com/drive/folders/1PLV5TZ4q9DJ375ThQ_SVPCf23oxZ4d5U?usp=sharing)
+### Slack Channel Link → [Click Here to Join](https://join.slack.com/t/apssdcpythoncommunity/shared_invite/zt-g1z4xjv4-D_h3guLVZREUChQgzKez_A)
+### Verify Your Name, RollNo, CollegeName same will be printed on your Certificate and also check your Attendance and if any changes needed update in Comments Column → [Click Here](https://docs.google.com/spreadsheets/d/1SEad55QEIgdE2yk4GtfEumk1btsvCyXKryspCrEZNNE/edit?usp=sharing)
+### Provide Your Video Feedback → [Here](https://forms.gle/aFWeig5A1Ke91uWQA)
+
+### Upcoming Online Training Programs 10 July last date: [http://engineering.apssdc.in/register/](http://engineering.apssdc.in/register/)
+
+
 
 **`Note:` If you need the recorded videos for future reference download and save it in your Desktop/Laptop/Mobile they will be expired by 10 days i.e. 02 July 2020**
 **********************************
