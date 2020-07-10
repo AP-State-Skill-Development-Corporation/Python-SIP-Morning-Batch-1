@@ -163,3 +163,22 @@ Data Analysis and preprocessing using Pandas
 ### [Day16_Recorded_Video](https://transcripts.gotomeeting.com/#/s/8f2c697d24e7dbeb4d981dff4b938d8adfb8e15c9fabe3f4eb3d38390a40d886)
 
 ***************************************************************
+
+## Day17 Discussed Concepts
+
+Data Visualization using matplotlib
+1. Line Plot
+2. Scatter Plot
+3. Bar Plot
+4. Histogram
+5. Box Plot
+6. Pie Chart
+
+
+### Day17 Content Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day17_10July2020/Day17_10July2020.ipynb) [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Morning-Batch-1/blob/master/Day17_10July2020/Day17_10July2020.pdf)
+
+
+### [Day17_Recorded_Video](https://transcripts.gotomeeting.com/#/s/1c9e47fcbc937f2480cb0fb091f62410b6556025a8836e9e0debfb986207ab06)
+
+***************************************************************
+
