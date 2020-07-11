@@ -26,3 +26,8 @@
 
 ### 1. [Numpy Official Website](https://numpy.org)
 ### 2. [Data Types in Numpy](https://numpy.org/devdocs/user/basics.types.html)
+
+
+## Day 18
+
+## [Free Courses Link](https://medium.com/@anilkumarteegala/free-online-certificate-courses-you-can-start-during-covid-19-epidemic-8cbfdce1a49e)
