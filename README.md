@@ -2,8 +2,7 @@
 ### 22-06-2020 to 11-07-2020 → Sucessfully Completed
 
 ### All Recorded Videos in Google Drive → [Click Here](https://drive.google.com/drive/folders/1PLV5TZ4q9DJ375ThQ_SVPCf23oxZ4d5U?usp=sharing)
-### Slack Channel Link → [Click Here to Join](https://join.slack.com/t/apssdcpythoncommunity/shared_invite/zt-g1z4xjv4-D_h3guLVZREUChQgzKez_A)
-### Provide Your Video Feedback → [Here](https://forms.gle/aFWeig5A1Ke91uWQA)
+
 
 **`Note:` If you need the recorded videos for future reference download and save it in your Desktop/Laptop/Mobile**
 **********************************
